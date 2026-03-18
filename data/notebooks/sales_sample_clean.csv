@@ -1,0 +1,11 @@
+date,store_id,product_id,category,units_sold,unit_price,revenue,payment_method
+2024-01-01,1,101,Beverages,12,2.5,30.0,Cash
+2024-01-01,1,102,Snacks,8,1.75,14.0,Card
+2024-01-02,2,103,Dairy,15,3.2,48.0,Mobile Money
+2024-01-02,1,104,Bakery,10,2.0,20.0,Cash
+2024-01-03,3,101,Beverages,20,2.5,50.0,Card
+2024-01-03,2,105,Frozen,6,5.5,33.0,Cash
+2024-01-04,1,106,Household,4,12.0,48.0,Card
+2024-01-04,3,102,Snacks,14,1.75,24.5,Mobile Money
+2024-01-05,2,103,Dairy,9,3.2,28.8,Cash
+2024-01-05,1,104,Bakery,16,2.0,32.0,Card
